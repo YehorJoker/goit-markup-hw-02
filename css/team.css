@@ -1,3 +1,11 @@
 .team-bg {
     background-color: #f4f4fd;
 }
+
+.team-list {
+    list-style: none;
+}
+
+.team-card {
+    background-color: #ffffff;
+}
