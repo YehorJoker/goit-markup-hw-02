@@ -1,6 +1,6 @@
 .hero {
     background-color: #2e2f42;
-    /* padding видаляємо за вимогою ментора */
+    text-align: center;
 }
 
 .hero-title {
@@ -8,7 +8,6 @@
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
-    /* max-width та margin видаляємо */
 }
 
 .hero-btn {
@@ -20,7 +19,10 @@
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    /* border, border-radius, padding, min-width — видаляємо */
     border: none;
-    /* Залишаємо тільки щоб прибрати дефолтну рамку */
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404bbf;
 }

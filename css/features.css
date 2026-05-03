@@ -1,9 +1,7 @@
-/* У класі .section видаляємо padding */
+
 
 .features-list {
-    /* display: flex та gap — видаляємо */
 }
 
 .features-list li {
-    /* width: calc(...) — видаляємо */
 }

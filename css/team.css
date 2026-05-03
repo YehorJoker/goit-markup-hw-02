@@ -1,18 +1,3 @@
 .team-bg {
     background-color: #f4f4fd;
 }
-
-.team-list {
-    /* display, gap, justify-content — видаляємо */
-}
-
-.team-card {
-    background-color: #ffffff;
-    /* width, padding-bottom, border-radius, box-shadow — видаляємо */
-}
-
-/* Додаємо вирівнювання заголовка, яке просив ментор */
-.section-title {
-    text-align: center;
-    /* Додай сюди колір та типографіку, якщо їх немає в common.css */
-}
