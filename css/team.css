@@ -9,3 +9,8 @@
 .team-card {
     background-color: #ffffff;
 }
+
+.team-card .item-subtitle,
+.team-card .item-text {
+    text-align: center;
+}
